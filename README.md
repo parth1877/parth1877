@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth1877" alt="parth1877" /></a> </p>
 
-- 🌱 I’m currently learning **Devops,Nextjs**
+- 🌱 I’m currently learning **Nextjs,Blockchain Technology**
 
 - 📫 How to reach me **parthbagal20@gmail.com**
 
